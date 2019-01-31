@@ -1,0 +1,56 @@
+#+TITLE: Preliminary Information
+#+STARTUP: noindent showall
+#+OPTIONS: date:nil author:nil toc:nil num:nil
+#+SUBTITLE: HLI 331
+#+LaTeX_HEADER: \usepackage[margin=1.0in]{geometry}
+#+LaTeX_HEADER: \renewcommand\labelitemi{-}
+
+      
+* Geopolitical Climate
+- 1485: Battle of Bosworth Field
+- Richard III loses to Richmond (Henry VII)
+    - First king of the Tudor dynasty
+- London becomes the political, cultural, economic center of the country.
+- England is a backwater nation, taking second place to Spain.
+- Over the course of the 16th century, England slowly slides into place as the superpower.
+- Land no longer directly correspondent to wealth; now trade and influence are more important.
+
+* Henry VII
+- Rules from 1485 - 1509
+- Sons: Arthur and Henry
+- Marries Arthur to Catherine of Aragon (at age 14)
+    - yields an alliance between England and Spain
+    - Marriage required consummation of marriage before the court
+- Only way to create stability was to create heirs
+  - yielded the promise of another stable generation down the road
+
+* Henry VIII (King from 1509 -- 1547)
+- Arthur dies, and under the ruse that they had never consummated the marriage, the Pope annulled the marriage and Catherine of Aragon marries Henry VIII instead in 1509.
+  - All of their children die within a month after birth except for Mary
+- Henry VIII wants to have a male heir, but Catherine of Aragon cannot provide him with that.
+- Henry VIII cannot get the Pope's dispensation to annul his marriage to Catherine, so he separates from the Catholic church and creates the Church of England, and marries *Anne Boleyn*. Catherine of Aragon is now out of the picture (was Queen from 1509 -- 1533)
+- Anne Boleyn gives him Queen Elizabeth I, but still no boy
+- Henry has her accused of treason because she had three miscarriages, and Anne Boleyn was beheaded (1533 -- 1536)
+- Henry marries Jane Seymour (1536 -- 1537), who dies of postnatal complications, but after finally getting Henry his first boy, King Edward VI.
+- Marries Anne of Cleves in 1540, but just didn't like her. Didn't consummate the marriage, was annulled asap.
+- Marries Catherine Howard (1540 -- 1542). She actually committed adultery, accused of treason, beheaded.
+- Marries Catherine Parr (1543 -- Henry VIII's death). She outlives him by one year, last of his 6 wives.
+  
+* King Edward VI (King from 1547 -- 1553)
+- Too young to actually rule, and he died at 15
+- Succeeded by Bloody Mary
+
+* Queen Mary I (1553 -- 1558)
+- Tried to reverse the English Reformation, had many people executed, giving her the nickname Bloody Mary
+- After her death, there is no choice but for Queen Elizabeth I to take the throne
+- Elizabeth I (1558 -- 1603), James I (1603 -- 1625)
+
+* Shakespeare (1564 -- 1616)
+- Shakespeare was born and lived most of his life under the Tudor dynasty.
+- /"Shakespeare IS the canon."/ -- Harold Bloom, Sterling Professor of Humanities at Yale
+- Reason that we still have Shakespeare around is because he was a genius entrepreneur, in addition to being a genius author
+- Valuable dates:
+  - (/1585 -- 1590/) -- Roanoke Colony
+  - (/1607/) -- Jamestown settlement
+  - (/1607 -- 1638/) -- John Harvard, grew up around Shakespeare
+- Shakespeare was alive for the formation of America, and it is argued that he wrote the first American play (/Tempest/).
