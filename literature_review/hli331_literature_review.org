@@ -1,0 +1,67 @@
+#+TITLE: HLI 331 Final Paper -- Literature Review
+#+SUBTITLE: The Insanity Plea for Characters in Shakespeare's /Hamlet/
+#+STARTUP: noindent showall
+#+OPTIONS: toc:nil num:nil
+#+DATE: 13 April 2019
+#+LaTeX_HEADER: \documentclass[12pt]{article}
+#+LaTeX_HEADER: \usepackage[letterpaper]{geometry}
+#+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \geometry{top=1.0in, bottom=1.0in, left=1.0in, right=1.0in}
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \setlength{\parindent}{0cm}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \pagestyle{fancyplain}
+#+LATEX_HEADER: \rhead{Saleem \thepage}
+#+LATEX_HEADER: \renewcommand{\headrulewidth}{0pt} 
+#+LATEX_HEADER: \renewcommand{\footrulewidth}{0pt} 
+#+LATEX_HEADER: \setlength\headsep{0.333in}
+
+* Goals and Direction of Final Paper
+For my research, I intend to assess and investigate the mental health of major characters in Shakespeare's /Hamlet/, and how their conditions direct the plot. My reference material will be a combination of psychology articles and literary analyses of /Hamlet/. From our discussion in lecture, we know that it is a popular question about whether or not Hamlet, the titular character, actually does go mad. Though it is not entirely clear through Shakespeare's narrative alone, a psychoanalytic approach may help to uncover some parts of the mystery. This paper will identify the symptoms that Hamlet displays that are evocative of madness, and determine whether they are conclusive enough to constitute insanity. Meaning, if a modern jury were to put Hamlet on trial, could he avoid punishment by submitting a plea of insanity?
+
+Though the central focus of the research will be psychoanalyzing Hamlet and determining whether his insanity in the end was part of an ruse or was genuine, I hope to also discuss how Ophelia's and Claudius' mental facilities were affected by the events of the play. We know for sure that Ophelia becomes mentally ill after the death of her father, and this paper will dive into what drove her to madness and how it may have triggered the mental decline of Hamlet. For Claudius, the guilt and confliction he experienced about his crimes will be a valuable item of discussion in this paper.
+
+* Intended Reference Literature
+** [[https://ezproxy.stevens.edu:2322/stable/23675321?Search=yes&resultItemClick=true&searchText=hamlet&searchText=mental&searchText=health&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dhamlet%2Bmental%2Bhealth&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3Ab1e21e9d9429399360b2544b924c65fa&seq=3#metadata_info_tab_contents][Hamlet's "All But Blunted Purpose"]]
+This resource serves to explain Hamlet's motives for how he behaves throughout the play: why he waits so long before exacting his revenge, why he may put on the air of seeming insane, and why he waits so long to tell Ophelia that he loves her. It makes remarks about the strength of his feeling, and how it compares to that of other characters in the play. I feel that this article offers a valuable perspective on Hamlet's emotional state, which will help for me to make the case about his sanity.
+** [[https://ezproxy.stevens.edu:2322/stable/3204458?Search=yes&resultItemClick=true&searchText=hamlet&searchUri=%2Faction%2FdoBasicSearch%3Fcty_journal_facet%3Dam91cm5hbA%253D%253D%26amp%3BQuery%3Dhamlet%26amp%3Bsd%3D%26amp%3Bed%3D%26amp%3BsearchType%3DfacetSearch%26amp%3Bpagemark%3DcGFnZU1hcms9Mg%253D%253D&ab_segments=0%2Fl2b-basic-1%2Frelevance_config_with_tbsub_l2b&seq=4#metadata_info_tab_contents][The Imagery in Hamlet: Acting]]
+Part of my paper will reference how we can judge Hamlet's sanity by his interest in acting. This paper mentions how Hamlet could potentially be justifying his actions by using the imagery of plays and actors. This phenomenon is common among people suffering from schizophrenia. This resource helps to explain how Hamlet is able to excise some of his actions from his conscience.
+** [[https://ezproxy.stevens.edu:2322/stable/2869086?Search=yes&resultItemClick=true&searchText=hamlet&searchUri=%2Faction%2FdoBasicSearch%3Fcty_journal_facet%3Dam91cm5hbA%253D%253D%26amp%3BQuery%3Dhamlet%26amp%3Bsd%3D%26amp%3Bed%3D%26amp%3BsearchType%3DfacetSearch%26amp%3Bpagemark%3DcGFnZU1hcms9Mg%253D%253D&ab_segments=0%2Fl2b-basic-1%2Frelevance_config_with_tbsub_l2b&seq=2#metadata_info_tab_contents][The Imagery of Constraint in Hamlet]]
+This is another explanation of the motives behind the actions (or the method behind the madness) of the characters in /Hamlet/. It discusses how the characters are often forced into their actions solely by the constraints of the situation, lending toward an argument in /favor/ of their sanity. The reference declares how the world of /Hamlet/ is dictated by some external power, rather than driven by the characters.
+** [[https://ezproxy.stevens.edu:2322/stable/2868852?Search=yes&resultItemClick=true&searchText=hamlet&searchUri=%2Faction%2FdoBasicSearch%3Fcty_journal_facet%3Dam91cm5hbA%253D%253D%26amp%3BQuery%3Dhamlet%26amp%3Bsd%3D%26amp%3Bed%3D%26amp%3BsearchType%3DfacetSearch%26amp%3Bpagemark%3DcGFnZU1hcms9Mg%253D%253D&ab_segments=0%2Fl2b-basic-1%2Frelevance_config_with_tbsub_l2b&seq=1#metadata_info_tab_contents][Who Said That -- Hamlet or /Hamlet/?]]
+This reference discusses the true morality of the characters. Similar to the previous reference, it makes a distinction between the actions of the characters and the actions of the narrative. To understand Hamlet at a psychological level, I feel that it is important that his moral character is understood. This reference and the previous offer that context, so that a more in-depth psychoanalysis can be conducted.
+** [[https://ezproxy.stevens.edu:2322/stable/371685?Search=yes&resultItemClick=true&searchText=hamlet&searchText=psychoanalysis&searchUri=%2Faction%2FdoAdvancedSearch%3Fcty_journal_facet%3Dam91cm5hbA%253D%253D%26amp%3Bc3%3DAND%26amp%3Bc2%3DAND%26amp%3Bed%3D%26amp%3Bacc%3Don%26amp%3Bc6%3DAND%26amp%3Bf4%3Dall%26amp%3Bq1%3Dpsychoanalysis%26amp%3Bc5%3DAND%26amp%3Bf2%3Dall%26amp%3Bc1%3DAND%26amp%3Bgroup%3Dnone%26amp%3Bsd%3D%26amp%3Bf5%3Dall%26amp%3Bf6%3Dall%26amp%3Bq0%3Dhamlet%26amp%3Bc4%3DAND%26amp%3Bf3%3Dall%26amp%3BsearchType%3DfacetSearch%26amp%3Bf0%3Dall%26amp%3Bf1%3Dall&ab_segments=0%2Fdefault-2%2Fcontrol&seq=7#metadata_info_tab_contents][Hamlet and Freud]]
+Of all the resources listed, this one aligns most closely with the topic of my research. Stearns goes into a detailed Freudian analysis on Hamlet, as well as a critique of other analyses conducted in the past. Freud speaks volumes about the association between anxiety and traumatic experiences and madness, and no better subject for this association can be offered than Hamlet. This reference is also observant of Shakespeare's mental condition, and uses that context to make statements about what Hamlet's may be.
+
+* Other Reference Literature in Consideration
+** [[https://ezproxy.stevens.edu:2322/stable/450360?Search=yes&resultItemClick=true&searchText=hamlet&searchUri=%2Faction%2FdoBasicSearch%3Fcty_journal_facet%3Dam91cm5hbA%253D%253D%26amp%3BQuery%3Dhamlet%26amp%3Bsd%3D%26amp%3Bed%3D%26amp%3BsearchType%3DfacetSearch%26amp%3Bpagemark%3DcGFnZU1hcms9Mg%253D%253D&ab_segments=0%2Fl2b-basic-1%2Frelevance_config_with_tbsub_l2b&seq=1#metadata_info_tab_contents][Ambivalence in The Player's Speech in /Hamlet/]]
+** [[https://ezproxy.stevens.edu:2322/stable/27784781?Search=yes&resultItemClick=true&searchText=hamlet&searchText=psychoanalysis&searchUri=%2Faction%2FdoAdvancedSearch%3Ff1%3Dall%26amp%3Bgroup%3Dnone%26amp%3Bcty_journal_facet%3Dam91cm5hbA%253D%253D%26amp%3Bc4%3DAND%26amp%3Bq1%3Dpsychoanalysis%26amp%3Bf5%3Dall%26amp%3Bf4%3Dall%26amp%3Bq0%3Dhamlet%26amp%3Bc5%3DAND%26amp%3Bf0%3Dall%26amp%3Bpagemark%3DcGFnZU1hcms9Mw%253D%253D%26amp%3BsearchType%3DfacetSearch%26amp%3Bc6%3DAND%26amp%3Bc3%3DAND%26amp%3Bsd%3D%26amp%3Bf6%3Dall%26amp%3Bf3%3Dall%26amp%3Bf2%3Dall%26amp%3Bc1%3DAND%26amp%3Bed%3D%26amp%3Bc2%3DAND%26amp%3Bacc%3Don&ab_segments=0%2Fdefault-2%2Fcontrol&seq=6#metadata_info_tab_contents][Neither Accident nor Intent: Contextualizing the Suicide of Ophelia]]
+** [[https://ezproxy.stevens.edu:2322/stable/2873010?Search=yes&resultItemClick=true&searchText=hamlet&searchUri=%2Faction%2FdoBasicSearch%3Fcty_journal_facet%3Dam91cm5hbA%253D%253D%26amp%3BQuery%3Dhamlet%26amp%3Bsd%3D%26amp%3Bed%3D%26amp%3BsearchType%3DfacetSearch%26amp%3Bpagemark%3DcGFnZU1hcms9Mg%253D%253D&ab_segments=0%2Fl2b-basic-1%2Frelevance_config_with_tbsub_l2b&seq=3#metadata_info_tab_contents][Hamlet's Grief]]
+** [[https://www.academia.edu/9833735/Ghost_and_antic_disposition][Ghost and antic disposition]]
+
+
+#+Begin_Latex
+\pagebreak
+#+End_Latex
+
+#+BEGIN_CENTER
+Works Cited
+#+END_CENTER
+
+\hangindent=0.5in Detmold, George. “HAMLET'S ‘ALL BUT BLUNTED PURPOSE.’” The Shakespeare Association Bulletin, vol. 24, no. 1, 1949, pp. 22–36. JSTOR, www.jstor.org/stable/23675321.
+
+\hangindent=0.5in Jacqueline E. M. Latham. “The Imagery in ‘Hamlet’: Acting.” Educational Theatre Journal, vol. 14, no. 3, 1962, pp. 197–202. JSTOR, www.jstor.org/stable/3204458.
+
+\hangindent=0.5in Kirsch, Arthur. “Hamlet's Grief.” ELH, vol. 48, no. 1, 1981, pp. 17–36. JSTOR, www.jstor.org/stable/2873010.
+
+\hangindent=0.5in Schell, E. T. “Who Said That--Hamlet or Hamlet?” Shakespeare Quarterly, vol. 24, no. 2, 1973, pp. 135–146. JSTOR, www.jstor.org/stable/2868852.
+
+\hangindent=0.5in Shelden, Michael. “The Imagery of Constraint in Hamlet.” Shakespeare Quarterly, vol. 28, no. 3, 1977, pp. 355–358. JSTOR, www.jstor.org/stable/2869086.
+
+\hangindent=0.5in Smith, Barbara. “Neither Accident nor Intent: Contextualizing the Suicide of Ophelia.” South Atlantic Review, vol. 73, no. 2, 2008, pp. 96–112. JSTOR, www.jstor.org/stable/27784781.
+
+\hangindent=0.5in Stearns, Marshall W. “Hamlet and Freud.” College English, vol. 10, no. 5, 1949, pp. 265–272. JSTOR, www.jstor.org/stable/371685.
+
+\hangindent=0.5in Varga, L. & Fye, B. Psych Quar (1966) 40: 607. https://doi.org/10.1007/BF01562784 
+
+\hangindent=0.5in Westlund, Joseph. “Ambivalence in the Player's Speech in Hamlet.” Studies in English Literature, 1500-1900, vol. 18, no. 2, 1978, pp. 245–256. JSTOR, www.jstor.org/stable/450360.
